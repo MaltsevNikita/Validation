@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import formValidator from '../../helpers/formValidator';
+import formValidator from 'helpers/formValidator';
 import './Form.css';
-import checkUser from '..../helpers/checkUser';
+import checkUser from 'helpers/checkUser';
 import BondImage from './assets/bond_approve.jpg';
 
 const fields = [
